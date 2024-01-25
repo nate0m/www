@@ -1,0 +1,43 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "natesmind.space"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: home
+      url: ""
+      weight: 1
+    - name: words
+      url: "post/"
+      weight: 2
+    - name: gallery
+      url: "gallery"
+      weight: 4
+    - name: music
+      url: "music-gallery"
+      weight: 3
+    - name: about
+      url: "about/"
+      weight: 5
+    - name: rss
+      url: "index.xml"
+
+params:
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; nate for now"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
