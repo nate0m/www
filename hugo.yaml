@@ -19,15 +19,12 @@ menu:
     - name: words
       url: "post/"
       weight: 2
-    - name: gallery
-      url: "gallery"
-      weight: 4
     - name: music
       url: "music-gallery"
       weight: 3
     - name: about
       url: "about/"
-      weight: 5
+      weight: 4
     - name: rss
       url: "index.xml"
 
