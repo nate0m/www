@@ -140,6 +140,12 @@ albums:
     link: "https://youtube.com/playlist?list=OLAK5uy_k2UmTlLvCafViF0AFXIpFeRoHFzcuSZTc&si=HVu4tcoSoOZtHUiP"
     weight: 2
 
+  - image: "/img/album-covers/operation-doomsday.jpg"
+    alt: "MF DOOM operation doomsday"
+    text: "[doomsday]"
+    link: "https://www.youtube.com/watch?v=5EtVJP0Dml4"
+    weight: 2
+
 # Add more albums as needed
 ---
 I think over time I will do a write up on each one of these albums on why I like it and this will be the directory for all those write ups.
