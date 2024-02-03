@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natesmind.space</title>
+    <link>/</link>
+    <description>Recent content on natesmind.space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2024 21:31:01 -0800</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>/post/2024/01/20/first-post/</link>
+      <pubDate>Sat, 20 Jan 2024 21:20:23 -0800</pubDate>
+      <guid>/post/2024/01/20/first-post/</guid>
+      <description>hello world</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>whomai My name is Nathan but my friends call me Nate. I&amp;rsquo;m a 21 year old college student. I&amp;rsquo;m studing computer engineering and I work at an electric bike company. In my free time I enjoy doing little software projects or working in my workshop. I have a very large amount of interests which makes it difficult to focus on one thing. I&amp;rsquo;m always bouncing from one project to another.</description>
+    </item>
+    <item>
+      <title>gallery</title>
+      <link>/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>music gallery</title>
+      <link>/music-gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/music-gallery/</guid>
+      <description>I think over time I will do a write up on each one of these albums on why I like it and this will be the directory for all those write ups.</description>
+    </item>
+  </channel>
+</rss>

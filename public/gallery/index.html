@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="/css/gallery.css">
+
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <div class="site-title">| natesmind.space |</div>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">home</a></li>
+      
+      <li><a href="/post/">words</a></li>
+      
+      <li><a href="/music-gallery">music</a></li>
+      
+      <li><a href="/about/">about</a></li>
+      
+      <li><a href="/index.xml">rss</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+
+    <h1>gallery</h1>
+    <section class="grid-container">
+        
+        
+            <div class="card">
+                <div class="image" onclick="expandImage(this)">
+                    <img src="/img/album-covers/faces.jpg" alt="mac miller faces">
+                    <div class="text">
+                        
+                            <a href="https://www.youtube.com/watch?v=dCAClyY6vlQ" target="_blank">[faces]</a>
+                        
+                    </div>
+                </div>
+            </div>
+        
+            <div class="card">
+                <div class="image" onclick="expandImage(this)">
+                    <img src="/img/album-covers/freestyle-friday.jpg" alt="album 1">
+                    <div class="text">
+                        
+                            <a href="https://www.youtube.com/watch?v=cmGGPveM1hc&amp;list=PLf2RZ3cHgMo4r8CaQkaPclkeQDsft04GG" target="_blank">[freestyle-friday]</a>
+                        
+                    </div>
+                </div>
+            </div>
+        
+    </section>
+
+    <script>
+        function expandImage(element) {
+            element.classList.toggle("expanded");
+        }
+    </script>
+</body>
+</html>
+
