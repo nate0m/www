@@ -146,6 +146,12 @@ albums:
     link: "https://www.youtube.com/watch?v=5EtVJP0Dml4"
     weight: 2
 
+  - image: "/img/album-covers/american-football.png"
+    alt: "american football"
+    text: "[american-football]"
+    link: "https://youtu.be/QZNYVt87y60?si=wmBzQKYSHIXGxjTQ"
+    weight: 2
+
 # Add more albums as needed
 ---
 I think over time I will do a write up on each one of these albums on why I like it and this will be the directory for all those write ups.

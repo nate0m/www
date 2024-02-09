@@ -1,3 +1,13 @@
+::selection {
+    background-color: rgba(255, 110, 1, 0.5); /* Set your desired highlight color */
+    color: #C1C1C3; /* Set the text color for the highlighted text */
+}
+
+/* For older browsers */
+::-moz-selection {
+    background-color: rgba(255, 110, 1, 0.5);
+    color: #C1C1C3;
+}
 body {
   max-width: 800px;
   margin: auto;
@@ -8,9 +18,14 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  font-size: 1.5em;
 }
 a {
   color: #FE872F;
+}
+a:hover {
+  background-color: rgba(255, 110, 1, 0.5);
+  color: #C1C1C3; 
 }
 h1 {
   font-size: 1.5em;
@@ -25,7 +40,6 @@ h2 {
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   font-size: 1.3em;
-  color: #FE872F;
   padding: 5px;
   border-radius: 0px;
 }
