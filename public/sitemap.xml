@@ -2,29 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/post/</loc>
+    <loc>//localhost:1313/post/2024/04/04/cheaper-than-an-ipad/</loc>
+    <lastmod>2024-04-04T15:20:08-07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2024-04-04T15:20:08-07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/02/03/rethinking-smartphone-ui/</loc>
     <lastmod>2024-02-03T20:59:19-08:00</lastmod>
   </url><url>
-    <loc>/post/2024/02/03/rethinking-smartphone-ui/</loc>
-    <lastmod>2024-02-03T20:59:19-08:00</lastmod>
-  </url><url>
-    <loc>/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</loc>
+    <loc>//localhost:1313/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</loc>
     <lastmod>2024-01-28T20:01:50-08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-01-20T21:31:01-08:00</lastmod>
   </url><url>
-    <loc>/post/2024/01/20/first-post/</loc>
+    <loc>//localhost:1313/post/2024/01/20/first-post/</loc>
     <lastmod>2024-01-20T21:20:23-08:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/music-notes/10-day/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/music-notes/abbey-road/</loc>
   </url><url>
-    <loc>/gallery/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/music-gallery/</loc>
+    <loc>//localhost:1313/music-notes/american-football/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/music-notes/amerikkkan-korruption/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/april-fools/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/codes-and-keys/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/demon-days/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/disintegration/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/faces/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/freestyle-friday/</loc>
+  </url><url>
+    <loc>//localhost:1313/gallery/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/freefall/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/the-light-shines-through/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/long-term-2/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/longterm-mentality/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/moenie-and-kitchi/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-gallery/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/nehruviandoom/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/operation-doomsday/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/overly-dedicated/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/peep-the-aprocalypse/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/pop-food/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/rks/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/section-80/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/seven-and-mary/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/splitting-branches/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/music-notes/volume-alpha/</loc>
   </url>
 </urlset>

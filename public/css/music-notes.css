@@ -1,0 +1,26 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-gap: 20px;
+    width: 98%; 
+    position: relative; 
+}
+
+.sidebar {
+    padding: 20px; 
+    position: relative;
+}
+
+.sidebar::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0; 
+    right: -10px;
+    width: 1px; 
+    background-color: #ccc; /* Color of the line */
+}
+
+.main-content {
+}
+

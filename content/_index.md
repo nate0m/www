@@ -21,4 +21,4 @@ Accounts of my experences and interests. Which include:
 
 If these kind of things interest you than take some time to look around.
 
-### Recent Additions
+### Recent Words
