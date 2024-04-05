@@ -19,7 +19,7 @@ First I had to pick a drawing tablet. The main factors I was considering were re
 
 ### Step 2 Drivers
 
-Like I said I wanted something that would 'just work'. I needed something that had compatibility with my preferred operating system Linux. Before purchasing the tablet I made sure that it had solid drivers for Linux. The [arch wiki on article](https://wiki.archlinux.org/title/Graphics_tablet) on Wacom tablets was my main resource for this. The tablet worked out of the box, but I did install the KDE configuration module since I was using KDE on my desktop at the time. But recently I switch to i3 and now I just use xsetwacom to set the tablet to only map to a single display instead of multiple. Overall it was a seamless experience and on my laptop I haven't even had to install any additional packages. 
+Like I said I wanted something that would 'just work'. I needed something that had compatibility with my preferred operating system Linux. Before purchasing the tablet I made sure that it had solid drivers for Linux. The [arch wiki article](https://wiki.archlinux.org/title/Graphics_tablet) on Wacom tablets was my main resource for this. The tablet worked out of the box, but I did install the KDE configuration module since I was using KDE on my desktop at the time. But recently I switch to i3 and now I just use xsetwacom to set the tablet to only map to a single display instead of multiple. Overall it was a seamless experience and on my laptop I haven't even had to install any additional packages. 
 
 ### Step 3 xoural free open source note taking software for Linux.
 
