@@ -14,7 +14,7 @@ body {
   padding: 0.2em;
   line-height: 1.1em;
   color: #C1C1C3;
-  background-image: url('https://nate0m.github.io/www/img/stars.png');
+  background-image: url('../img/stars.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
