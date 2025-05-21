@@ -2,234 +2,234 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>natesmind.space</title>
-    <link>http://localhost:1313/www/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on natesmind.space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Apr 2024 15:20:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/www/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cheaper Than an Ipad</title>
-      <link>http://localhost:1313/www/post/2024/04/04/cheaper-than-an-ipad/</link>
+      <link>http://localhost:1313/post/2024/04/04/cheaper-than-an-ipad/</link>
       <pubDate>Thu, 04 Apr 2024 15:20:08 -0700</pubDate>
-      <guid>http://localhost:1313/www/post/2024/04/04/cheaper-than-an-ipad/</guid>
+      <guid>http://localhost:1313/post/2024/04/04/cheaper-than-an-ipad/</guid>
       <description>I&amp;rsquo;m a college student and last semester did not go very well. I was taking a lot of classes where I had to take physical notes and keep track of a lot of different handouts. Basically I had a bunch of paper that I needed to keep organized. So I went to target bought a binder and some separators for it and started to organize. This worked for a little bit but eventually the paper won the war of attrition.</description>
     </item>
     <item>
       <title>Rethinking Smartphone Ui</title>
-      <link>http://localhost:1313/www/post/2024/02/03/rethinking-smartphone-ui/</link>
+      <link>http://localhost:1313/post/2024/02/03/rethinking-smartphone-ui/</link>
       <pubDate>Sat, 03 Feb 2024 20:59:19 -0800</pubDate>
-      <guid>http://localhost:1313/www/post/2024/02/03/rethinking-smartphone-ui/</guid>
+      <guid>http://localhost:1313/post/2024/02/03/rethinking-smartphone-ui/</guid>
       <description>Recently I&amp;rsquo;ve been feeling that the way that I was using my android smart phone is very cluttered compared to how I use my laptop and desktop linux systems. While I was browsing Fdroid I found a possible solution to my problem in a minimalist launcher.&#xA;Current day android running on my pixel 6 is fine but I wanted something more utilitarian. I find that the multitude of apps within folders and widgets scattered across my home screen is not something that I find pleasant to interface with.</description>
     </item>
     <item>
       <title>Jungian Analysis of The New Great Depression by The Moth &amp; The Flame</title>
-      <link>http://localhost:1313/www/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</link>
+      <link>http://localhost:1313/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</link>
       <pubDate>Sun, 28 Jan 2024 20:01:50 -0800</pubDate>
-      <guid>http://localhost:1313/www/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</guid>
+      <guid>http://localhost:1313/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</guid>
       <description>The New Great Depression is a great tune by band The Moth &amp;amp; The Flame with a fantastic music video that sparked my interest. Please watch the video and come back if you&amp;rsquo;re interested in my analysis.&#xA;Over the past year I have been reading a lot of Carl Jung. I started with Man and His Symbols then moved onto his Red Book. Both were enlightening though I could use another read of both for comprehension and understanding especially The Red Book.</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/www/post/2024/01/20/first-post/</link>
+      <link>http://localhost:1313/post/2024/01/20/first-post/</link>
       <pubDate>Sat, 20 Jan 2024 21:20:23 -0800</pubDate>
-      <guid>http://localhost:1313/www/post/2024/01/20/first-post/</guid>
+      <guid>http://localhost:1313/post/2024/01/20/first-post/</guid>
       <description>hello world</description>
     </item>
     <item>
       <title>10 Day</title>
-      <link>http://localhost:1313/www/music-notes/10-day/</link>
+      <link>http://localhost:1313/music-notes/10-day/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/10-day/</guid>
+      <guid>http://localhost:1313/music-notes/10-day/</guid>
       <description>This is where my thoughts on 10 Day will live.</description>
     </item>
     <item>
       <title>Abbey Road</title>
-      <link>http://localhost:1313/www/music-notes/abbey-road/</link>
+      <link>http://localhost:1313/music-notes/abbey-road/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/abbey-road/</guid>
+      <guid>http://localhost:1313/music-notes/abbey-road/</guid>
       <description>This is where my thoughts on Abby Road will live.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/www/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>whomai My name is Nathan but my friends call me Nate. I&amp;rsquo;m a 21 year old college student. I&amp;rsquo;m studing computer engineering and I work at an electric bike company. In my free time I enjoy doing little software projects or working in my workshop. I have a very large amount of interests which makes it difficult to focus on one thing. I&amp;rsquo;m always bouncing from one project to another.</description>
     </item>
     <item>
       <title>American Football</title>
-      <link>http://localhost:1313/www/music-notes/american-football/</link>
+      <link>http://localhost:1313/music-notes/american-football/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/american-football/</guid>
+      <guid>http://localhost:1313/music-notes/american-football/</guid>
       <description></description>
     </item>
     <item>
       <title>Amerikkkan Korruption</title>
-      <link>http://localhost:1313/www/music-notes/amerikkkan-korruption/</link>
+      <link>http://localhost:1313/music-notes/amerikkkan-korruption/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/amerikkkan-korruption/</guid>
+      <guid>http://localhost:1313/music-notes/amerikkkan-korruption/</guid>
       <description>This is where my thoughts on Amerikkkan Korruption will live.</description>
     </item>
     <item>
       <title>April Fools</title>
-      <link>http://localhost:1313/www/music-notes/april-fools/</link>
+      <link>http://localhost:1313/music-notes/april-fools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/april-fools/</guid>
+      <guid>http://localhost:1313/music-notes/april-fools/</guid>
       <description>This is where my thoughts on April Fools will live.</description>
     </item>
     <item>
       <title>Codes and Keys</title>
-      <link>http://localhost:1313/www/music-notes/codes-and-keys/</link>
+      <link>http://localhost:1313/music-notes/codes-and-keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/codes-and-keys/</guid>
+      <guid>http://localhost:1313/music-notes/codes-and-keys/</guid>
       <description>This is where my thoughts on Codes and Keys will live.</description>
     </item>
     <item>
       <title>Demon Days</title>
-      <link>http://localhost:1313/www/music-notes/demon-days/</link>
+      <link>http://localhost:1313/music-notes/demon-days/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/demon-days/</guid>
+      <guid>http://localhost:1313/music-notes/demon-days/</guid>
       <description>This is where my thoughts on Demon Days will live.</description>
     </item>
     <item>
       <title>Disintegration</title>
-      <link>http://localhost:1313/www/music-notes/disintegration/</link>
+      <link>http://localhost:1313/music-notes/disintegration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/disintegration/</guid>
+      <guid>http://localhost:1313/music-notes/disintegration/</guid>
       <description>This is where my thoughts on Disintegration will live.</description>
     </item>
     <item>
       <title>Faces</title>
-      <link>http://localhost:1313/www/music-notes/faces/</link>
+      <link>http://localhost:1313/music-notes/faces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/faces/</guid>
+      <guid>http://localhost:1313/music-notes/faces/</guid>
       <description>This is my thoughts on Mac Millers Faces mixtap originally released on May 11th of 2014 and recently re-released in 20**.</description>
     </item>
     <item>
       <title>Freestyle Friday</title>
-      <link>http://localhost:1313/www/music-notes/freestyle-friday/</link>
+      <link>http://localhost:1313/music-notes/freestyle-friday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/freestyle-friday/</guid>
+      <guid>http://localhost:1313/music-notes/freestyle-friday/</guid>
       <description></description>
     </item>
     <item>
       <title>gallery</title>
-      <link>http://localhost:1313/www/gallery/</link>
+      <link>http://localhost:1313/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/gallery/</guid>
+      <guid>http://localhost:1313/gallery/</guid>
       <description></description>
     </item>
     <item>
       <title>How to: Friend, Love, Freefall</title>
-      <link>http://localhost:1313/www/music-notes/freefall/</link>
+      <link>http://localhost:1313/music-notes/freefall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/freefall/</guid>
+      <guid>http://localhost:1313/music-notes/freefall/</guid>
       <description>This is where my thoughts on How to: Friend, Love, Freefall will live.</description>
     </item>
     <item>
       <title>It’s the Ones Who’ve Cracked That the Light Shines Through</title>
-      <link>http://localhost:1313/www/music-notes/the-light-shines-through/</link>
+      <link>http://localhost:1313/music-notes/the-light-shines-through/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/the-light-shines-through/</guid>
+      <guid>http://localhost:1313/music-notes/the-light-shines-through/</guid>
       <description>This is where my thoughts on The Light Shines Through will live.</description>
     </item>
     <item>
       <title>Long Term 2</title>
-      <link>http://localhost:1313/www/music-notes/long-term-2/</link>
+      <link>http://localhost:1313/music-notes/long-term-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/long-term-2/</guid>
+      <guid>http://localhost:1313/music-notes/long-term-2/</guid>
       <description>This is where my thoughts on Long Term 2 will live.</description>
     </item>
     <item>
       <title>Longterm Mentality</title>
-      <link>http://localhost:1313/www/music-notes/longterm-mentality/</link>
+      <link>http://localhost:1313/music-notes/longterm-mentality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/longterm-mentality/</guid>
+      <guid>http://localhost:1313/music-notes/longterm-mentality/</guid>
       <description>This is where my thoughts on Longterm Mentality will live.</description>
     </item>
     <item>
       <title>Moenie and Kitchi</title>
-      <link>http://localhost:1313/www/music-notes/moenie-and-kitchi/</link>
+      <link>http://localhost:1313/music-notes/moenie-and-kitchi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/moenie-and-kitchi/</guid>
+      <guid>http://localhost:1313/music-notes/moenie-and-kitchi/</guid>
       <description>This is where my thoughts on Moenie and Kitchi will live.</description>
     </item>
     <item>
       <title>music gallery</title>
-      <link>http://localhost:1313/www/music-gallery/</link>
+      <link>http://localhost:1313/music-gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-gallery/</guid>
+      <guid>http://localhost:1313/music-gallery/</guid>
       <description>I think over time I will do a write up on each one of these albums on why I like it and this will be the directory for all those write ups.</description>
     </item>
     <item>
       <title>NehruvianDOOM</title>
-      <link>http://localhost:1313/www/music-notes/nehruviandoom/</link>
+      <link>http://localhost:1313/music-notes/nehruviandoom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/nehruviandoom/</guid>
+      <guid>http://localhost:1313/music-notes/nehruviandoom/</guid>
       <description>This is where my thoughts on Nehruviandoom will live.</description>
     </item>
     <item>
       <title>Operation Doomsday</title>
-      <link>http://localhost:1313/www/music-notes/operation-doomsday/</link>
+      <link>http://localhost:1313/music-notes/operation-doomsday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/operation-doomsday/</guid>
+      <guid>http://localhost:1313/music-notes/operation-doomsday/</guid>
       <description>This is where my thoughts on Operation Doomsday will live.</description>
     </item>
     <item>
       <title>Overly Dedicated</title>
-      <link>http://localhost:1313/www/music-notes/overly-dedicated/</link>
+      <link>http://localhost:1313/music-notes/overly-dedicated/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/overly-dedicated/</guid>
+      <guid>http://localhost:1313/music-notes/overly-dedicated/</guid>
       <description>This is where my thoughts on Overly Dedicated will live.</description>
     </item>
     <item>
       <title>Peep the Aprocalypse</title>
-      <link>http://localhost:1313/www/music-notes/peep-the-aprocalypse/</link>
+      <link>http://localhost:1313/music-notes/peep-the-aprocalypse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/peep-the-aprocalypse/</guid>
+      <guid>http://localhost:1313/music-notes/peep-the-aprocalypse/</guid>
       <description>This is where my thoughts on Peep the Aprocalypse will live.</description>
     </item>
     <item>
       <title>Pop Food</title>
-      <link>http://localhost:1313/www/music-notes/pop-food/</link>
+      <link>http://localhost:1313/music-notes/pop-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/pop-food/</guid>
+      <guid>http://localhost:1313/music-notes/pop-food/</guid>
       <description>This is where my thoughts on Pop Food will live.</description>
     </item>
     <item>
       <title>Rks</title>
-      <link>http://localhost:1313/www/music-notes/rks/</link>
+      <link>http://localhost:1313/music-notes/rks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/rks/</guid>
+      <guid>http://localhost:1313/music-notes/rks/</guid>
       <description>This is where my thoughts on RKS will live.</description>
     </item>
     <item>
       <title>Section 80</title>
-      <link>http://localhost:1313/www/music-notes/section-80/</link>
+      <link>http://localhost:1313/music-notes/section-80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/section-80/</guid>
+      <guid>http://localhost:1313/music-notes/section-80/</guid>
       <description>This is where my thoughts on Section 80 will live.</description>
     </item>
     <item>
       <title>Seven &#43; Mary</title>
-      <link>http://localhost:1313/www/music-notes/seven-and-mary/</link>
+      <link>http://localhost:1313/music-notes/seven-and-mary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/seven-and-mary/</guid>
+      <guid>http://localhost:1313/music-notes/seven-and-mary/</guid>
       <description>This is where my thoughts on Seven + Mary will live.</description>
     </item>
     <item>
       <title>Splitting Branches</title>
-      <link>http://localhost:1313/www/music-notes/splitting-branches/</link>
+      <link>http://localhost:1313/music-notes/splitting-branches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/splitting-branches/</guid>
+      <guid>http://localhost:1313/music-notes/splitting-branches/</guid>
       <description>This is where my thoughts on Splitting Branches will live.</description>
     </item>
     <item>
       <title>Volume Alpha</title>
-      <link>http://localhost:1313/www/music-notes/volume-alpha/</link>
+      <link>http://localhost:1313/music-notes/volume-alpha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www/music-notes/volume-alpha/</guid>
+      <guid>http://localhost:1313/music-notes/volume-alpha/</guid>
       <description>This is where my thoughts on Volume Alpha will live.</description>
     </item>
   </channel>

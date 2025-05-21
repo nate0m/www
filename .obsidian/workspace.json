@@ -11,12 +11,14 @@
             "id": "34ecc9740c6a1d20",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/img/post/cheaper-than-an-ipad-thumb.jpg"
+                "file": "content/post/new-age-depression-anal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "cheaper-than-an-ipad-thumb"
+              "icon": "lucide-file",
+              "title": "new-age-depression-anal"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/img/post/cheaper-than-an-ipad-thumb.jpg",
+                "file": "content/post/new-age-depression-anal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cheaper-than-an-ipad-thumb"
+              "title": "Backlinks for new-age-depression-anal"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/img/post/cheaper-than-an-ipad-thumb.jpg",
+                "file": "content/post/new-age-depression-anal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cheaper-than-an-ipad-thumb"
+              "title": "Outgoing links from new-age-depression-anal"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static/img/post/cheaper-than-an-ipad-thumb.jpg",
+                "file": "content/post/new-age-depression-anal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cheaper-than-an-ipad-thumb"
+              "title": "Outline of new-age-depression-anal"
             }
           }
         ]
@@ -166,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c80476e6ab23d2d8",
+  "active": "34ecc9740c6a1d20",
   "lastOpenFiles": [
+    "content/post/first-post.md",
+    "content/post/cheaper-than-an-ipad.md",
+    "static/img/post/cheaper-than-an-ipad-thumb.jpg",
     "themes/hugo-theme/theme.toml",
     "themes/hugo-theme/static/css/style.css",
     "themes/hugo-theme/static/css/music.css",
@@ -178,7 +183,6 @@
     "themes/hugo-theme/static",
     "themes/hugo-theme/layouts/partials/header.html",
     "themes/hugo-theme/layouts/partials/head_custom.html",
-    "themes/hugo-theme/layouts/partials/footer.html",
     "themes/hugo-theme/images/tn.png",
     "themes/hugo-theme/images/screenshot.png",
     "themes/hugo-theme/exampleSite/content/post/2016-02-14-hello-markdown.md",
@@ -190,7 +194,6 @@
     "themes/hugo-theme/archetypes/default.md",
     "themes/hugo-theme/README.md",
     "themes/hugo-theme/LICENSE.md",
-    "content/post/rethinking-smartphone-ui.md",
-    "content/post/cheaper-than-an-ipad.md"
+    "content/post/rethinking-smartphone-ui.md"
   ]
 }
