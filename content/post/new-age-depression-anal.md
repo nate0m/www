@@ -4,7 +4,7 @@ date = 2024-01-28T20:01:50-08:00
 draft = false
 +++
 
-![thumb](/www/img/post/great-depression-thumb.jpg)
+![thumb](/img/post/great-depression-thumb.jpg)
 
 <a href="https://youtu.be/kQC0Q1b-h7U?si=4rxhucXYn4Fknh9o" target="_blank">The New Great Depression</a> is a great tune by band The Moth & The Flame with a fantastic music video that sparked my interest. Please watch the video and come back if you're interested in my analysis. 
 
