@@ -3,7 +3,7 @@ title = 'Cheaper Than an Ipad'
 date = 2024-04-04T15:20:08-07:00
 draft = false
 +++
-![thumb](/www/img/post/cheaper-than-an-ipad-thumb.jpg)  
+![thumb](/img/post/cheaper-than-an-ipad-thumb.jpg)  
 
 I'm a college student and last semester did not go very well. I was taking a lot of classes where I had to take physical notes and keep track of a lot of different handouts. Basically I had a bunch of paper that I needed to keep organized. So I went to target bought a binder and some separators for it and started to organize. This worked for a little bit but eventually the paper won the war of attrition. 
 
