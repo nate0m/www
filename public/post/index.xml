@@ -2,48 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on natesmind.space</title>
-    <link>/post/</link>
+    <link>http://localhost:1313/www/post/</link>
     <description>Recent content in Posts on natesmind.space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2024 15:20:08 -0700</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 15:20:08 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/www/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cheaper Than an Ipad</title>
-      <link>/post/2024/04/04/cheaper-than-an-ipad/</link>
+      <link>http://localhost:1313/www/post/2024/04/04/cheaper-than-an-ipad/</link>
       <pubDate>Thu, 04 Apr 2024 15:20:08 -0700</pubDate>
-      
-      <guid>/post/2024/04/04/cheaper-than-an-ipad/</guid>
+      <guid>http://localhost:1313/www/post/2024/04/04/cheaper-than-an-ipad/</guid>
       <description>I&amp;rsquo;m a college student and last semester did not go very well. I was taking a lot of classes where I had to take physical notes and keep track of a lot of different handouts. Basically I had a bunch of paper that I needed to keep organized. So I went to target bought a binder and some separators for it and started to organize. This worked for a little bit but eventually the paper won the war of attrition.</description>
     </item>
-    
     <item>
       <title>Rethinking Smartphone Ui</title>
-      <link>/post/2024/02/03/rethinking-smartphone-ui/</link>
+      <link>http://localhost:1313/www/post/2024/02/03/rethinking-smartphone-ui/</link>
       <pubDate>Sat, 03 Feb 2024 20:59:19 -0800</pubDate>
-      
-      <guid>/post/2024/02/03/rethinking-smartphone-ui/</guid>
-      <description>Recently I&amp;rsquo;ve been feeling that the way that I was using my android smart phone is very cluttered compared to how I use my laptop and desktop linux systems. While I was browsing Fdroid I found a possible solution to my problem in a minimalist launcher.
-Current day android running on my pixel 6 is fine but I wanted something more utilitarian. I find that the multitude of apps within folders and widgets scattered across my home screen is not something that I find pleasant to interface with.</description>
+      <guid>http://localhost:1313/www/post/2024/02/03/rethinking-smartphone-ui/</guid>
+      <description>Recently I&amp;rsquo;ve been feeling that the way that I was using my android smart phone is very cluttered compared to how I use my laptop and desktop linux systems. While I was browsing Fdroid I found a possible solution to my problem in a minimalist launcher.&#xA;Current day android running on my pixel 6 is fine but I wanted something more utilitarian. I find that the multitude of apps within folders and widgets scattered across my home screen is not something that I find pleasant to interface with.</description>
     </item>
-    
     <item>
       <title>Jungian Analysis of The New Great Depression by The Moth &amp; The Flame</title>
-      <link>/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</link>
+      <link>http://localhost:1313/www/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</link>
       <pubDate>Sun, 28 Jan 2024 20:01:50 -0800</pubDate>
-      
-      <guid>/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</guid>
-      <description>The New Great Depression is a great tune by band The Moth &amp;amp; The Flame with a fantastic music video that sparked my interest. Please watch the video and come back if you&amp;rsquo;re interested in my analysis.
-Over the past year I have been reading a lot of Carl Jung. I started with Man and His Symbols then moved onto his Red Book. Both were enlightening though I could use another read of both for comprehension and understanding especially The Red Book.</description>
+      <guid>http://localhost:1313/www/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</guid>
+      <description>The New Great Depression is a great tune by band The Moth &amp;amp; The Flame with a fantastic music video that sparked my interest. Please watch the video and come back if you&amp;rsquo;re interested in my analysis.&#xA;Over the past year I have been reading a lot of Carl Jung. I started with Man and His Symbols then moved onto his Red Book. Both were enlightening though I could use another read of both for comprehension and understanding especially The Red Book.</description>
     </item>
-    
     <item>
       <title>First Post</title>
-      <link>/post/2024/01/20/first-post/</link>
+      <link>http://localhost:1313/www/post/2024/01/20/first-post/</link>
       <pubDate>Sat, 20 Jan 2024 21:20:23 -0800</pubDate>
-      
-      <guid>/post/2024/01/20/first-post/</guid>
+      <guid>http://localhost:1313/www/post/2024/01/20/first-post/</guid>
       <description>hello world</description>
     </item>
-    
   </channel>
 </rss>
