@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://nate0m.github.io/www/"
 languageCode: "en-us"
 title: "natesmind.space"
 theme: "hugo-theme"
