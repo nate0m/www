@@ -18,7 +18,7 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 a {
   color: #FE872F;
@@ -44,17 +44,17 @@ h2 {
   border-radius: 0px;
 }
 .menu, .article-meta, footer { 
-  text-align: center; 
+  text-align: left; 
   color: #C1C1C3;
 }
 .site-title {
   font-size: 3.3em;
-  text-align: center;
+  text-align: left;
 
 }
 .title { 
   font-size: 1.8em; 
-  text-align: center;
+  text-align: left;
   color: #FDB649;
 }
 .date {
