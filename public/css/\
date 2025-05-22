@@ -40,7 +40,7 @@ h2 {
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   font-size: 1.3em;
-  padding: 5px;
+  padding: 7px;
   border-radius: 0px;
 }
 .menu, .article-meta, footer { 
