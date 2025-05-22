@@ -12,7 +12,7 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 0.2em;
-  line-height: 1.1em;
+  line-height: 1.5em;
   color: #C1C1C3;
   background-image: url('/img/stars.png');
   background-size: cover;
@@ -50,7 +50,7 @@ h2 {
 .site-title {
   font-size: 3.3em;
   text-align: left;
-
+  line-height: 1em;
 }
 .title { 
   font-size: 1.8em; 
