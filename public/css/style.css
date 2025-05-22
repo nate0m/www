@@ -14,7 +14,8 @@ body {
   padding: 0.2em;
   line-height: 1.5em;
   color: #C1C1C3;
-  background-image: url('/img/stars.png');
+  background-color: black;
+  # background-image: url('/img/stars.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
