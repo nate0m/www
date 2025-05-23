@@ -49,7 +49,7 @@ To test cells simply load in the cells that you want to test use the CHN button 
 ### Closing remarks
 In my opinion this is a much better deal for a more advanced piece of equipment compared to anything I was able to find on amazon. 
 
-If you are looking to recreate this setup including the 3D printed pieces that I designed here is a link to a printables page with the files. If you want to purchase the cell tester on aliexpress just search `18650 load tester` and pick the one that comes with the 21700 trays. I won't put a link here because aliexpress links almost always end up dying.
+If you are looking to recreate this setup including the 3D printed pieces that I designed [here is a link to a printables page with the files](https://www.printables.com/model/1304973-8-channel-21700-18650-lithium-battery-auto-charged). If you want to purchase the cell tester on aliexpress just search `18650 load tester` and pick the one that comes with the 21700 trays. I won't put a link here because aliexpress links almost always end up dying.
 
 
 
