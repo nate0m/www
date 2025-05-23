@@ -11,6 +11,7 @@ My name is Nathan but my friends call me Nate. I'm a 21 year old college student
 ### Links
 
  - [github](https://github.com/nate0m)
+ - [prinables](https://www.printables.com/@nathanmilton_2933646)
  - Youtube
     - [personal](https://www.youtube.com/@nate00m) 
     - [hip-hop-channel](https://www.youtube.com/@Hipothesis)  
