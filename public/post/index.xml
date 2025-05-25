@@ -6,14 +6,21 @@
     <description>Recent content in Posts on Nathan Milton</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 16:13:28 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 18:14:37 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Telsa Automatic Frunk Install</title>
+      <link>http://localhost:1313/post/2025/05/24/telsa-automatic-frunk-install/</link>
+      <pubDate>Sat, 24 May 2025 18:14:37 -0700</pubDate>
+      <guid>http://localhost:1313/post/2025/05/24/telsa-automatic-frunk-install/</guid>
+      <description>Premise My uncle asked me to install this tesla auto frunk kit on his model Y. The instructions and videos online do an ok job (I followed this video) with helping you along the installation process but are not as concise as I would like. Here I will cover my own installation experience with images and advice to help you have a smooth installation also for my own future reference if I decide to install another one of these kits.</description>
+    </item>
     <item>
       <title>Aliexpress Cell Tester</title>
       <link>http://localhost:1313/post/2025/05/22/aliexpress-cell-tester/</link>
       <pubDate>Thu, 22 May 2025 16:13:28 -0700</pubDate>
       <guid>http://localhost:1313/post/2025/05/22/aliexpress-cell-tester/</guid>
-      <description>Recently I started harvesting cells from discarded ebike batteries. Naturally this meant that I needed a way to test the health of these cells. When you test the health of a cell there are a few things that you need to check that being the capacity, maximum voltage, and internal resistance. Most important being the capacity as this is the amount of charge the cell can hold and directly relates to the amount of energy the cell can hold.</description>
+      <description>The Need for a Cell Tester Recently I started harvesting cells from discarded ebike batteries. Naturally this meant that I needed a way to test the health of these cells. When you test the health of a cell there are a few things that you need to check that being the capacity, maximum voltage, and internal resistance. Most important being the capacity as this is the amount of charge the cell can hold and directly relates to the amount of energy the cell can hold.</description>
     </item>
     <item>
       <title>Cheaper Than an Ipad</title>

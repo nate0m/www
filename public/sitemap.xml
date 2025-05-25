@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/2025/05/22/aliexpress-cell-tester/</loc>
-    <lastmod>2025-05-22T16:13:28-07:00</lastmod>
+    <loc>http://localhost:1313/post/2025/05/24/auto-frunk/</loc>
+    <lastmod>2025-05-24T18:14:37-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-05-24T18:14:37-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2025/05/22/aliexpress-cell-tester/</loc>
     <lastmod>2025-05-22T16:13:28-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2024/04/04/cheaper-than-an-ipad/</loc>
