@@ -4,10 +4,17 @@
     <title>Nathan Milton</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Nathan Milton</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 May 2025 18:14:37 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 11:42:13 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JBD Bms</title>
+      <link>http://localhost:1313/post/2025/06/04/jbd-bms/</link>
+      <pubDate>Wed, 04 Jun 2025 11:42:13 -0700</pubDate>
+      <guid>http://localhost:1313/post/2025/06/04/jbd-bms/</guid>
+      <description>There are a few sections which are unfinished. In the future I might fill them in or if you know the correct description for what is left out then submit a pull request on github.&#xA;Brief Introduction JBD bms’s are popular inexpensive battery management systems that are sold on jiabaida’s website directly but are more commonly purchased on aliexpress. This is my first experience with a JBD bms and this is also my first fully custom battery build.</description>
+    </item>
     <item>
       <title>Telsa Automatic Frunk Install</title>
       <link>http://localhost:1313/post/2025/05/24/telsa-automatic-frunk-install/</link>
