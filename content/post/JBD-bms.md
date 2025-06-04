@@ -4,7 +4,7 @@ date = 2025-06-04T11:42:13-07:00
 draft = false
 +++
 
-There are a few sections which are unfinished. In the future I might fill them in or if you know the correct description for what is left out then submit a pull request on [github]().
+There are a few sections which are unfinished. In the future I might fill them in or if you know the correct description for what is left out then submit a pull request on [github](https://github.com/nate0m/www/blob/main/content/post/JBD-bms.md).
 
 ## Brief Introduction
 
