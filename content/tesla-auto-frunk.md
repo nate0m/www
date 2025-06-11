@@ -1,6 +1,6 @@
 +++
 layout = 'no-header'
-title = 'Experience Ultimate Convenience: Automatic Frunk Installation for Your Tesla'
+title = 'Automatic Frunk Installation for Your Tesla'
 date = 2025-06-10T19:10:20-07:00
 draft = false
 +++
