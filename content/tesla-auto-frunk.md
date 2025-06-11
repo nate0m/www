@@ -7,13 +7,13 @@ draft = false
 
 {{< youtube id="dsrXEQoT0aU" autoplay="true" >}}
 
-Tired of manually opening your Tesla's frunk? Upgrade your vehicle with an automatic frunk kit and enjoy a new level of convenience!
+Tired of manually opening your Tesla's frunk? Upgrade your vehicle with an automatic frunk kit.
 
-I provide expert installation services for automatic frunk kits, seamlessly integrating this amazing upgrade into your Tesla. The best part? I come to you! My mobile installation service means you can get your automatic frunk installed right at your home or workplace in San Clemente, CA, or the surrounding areas. Imagine opening and closing your frunk effortlessly with just a tap on your Tesla's touchscreen, a quick press of your key fob, or directly from your Tesla app – it's that simple! These kits are designed to work in perfect harmony with your Tesla's existing systems, maintaining the sleek, factory-fresh feel you love.
+I provide expert installation services for automatic frunk kits. The best part? I come to you! My mobile installation service means you can get your automatic frunk installed right at your home or workplace in San Clemente, CA, or the surrounding areas. Imagine opening and closing your frunk effortlessly with just a tap on your Tesla's touchscreen, a quick press of your key fob, or directly from your Tesla app – it's that simple! These kits are designed to work with your Tesla's existing systems, maintaining the sleek, factory-fresh feel you love.
 
 ## How to Get Your Automatic Frunk Installed
 
-**Purchase Your Kit:** You'll first need to purchase your automatic frunk kit directly from the [manufacturer's website](https://www.tvibex.com/products/auto-power-frunk-for-tesla-model-3-y-highland-3?variant=45381766906005). Once your kit arrives, you're ready for the next step!
+**Purchase Your Kit:** You'll first need to purchase your automatic frunk kit directly from the [manufacturer's website](https://www.tvibex.com/products/auto-power-frunk-for-tesla-model-3-y-highland-3?variant=45381766906005). Make sure that you purchase the right kit for your model of tesla. If you have an quesions about which kit to purchase feel free to [contact me](#contact-me). Once your kit arrives, you're ready for the next step!
  
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
@@ -32,7 +32,7 @@ I provide expert installation services for automatic frunk kits, seamlessly inte
 })();
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
- : Schedule a convenient appointment for your installation.
+ : Click the Button to schedule an appointment for your installation at a time that is convenient for you.
 
 **Professional Installation:** I will install your automatic frunk kit, ensuring flawless operation and a seamless integration with your Tesla.
 
@@ -43,7 +43,7 @@ The professional installation service costs just $.
 
 ### Before Your Appointment
 
-First things first, you'll need to have already ordered and received your automatic frunk kit. There are various kits available for different Tesla models, and it's important to get the right one. If you're unsure which kit to purchase or need some guidance, don't hesitate to call or email me. I'm happy to help you pick the perfect kit for your Tesla!
+First things first, you'll need to have already ordered and received your automatic frunk kit. There are various kits available for different Tesla models, and it's important to get the right one. If you're unsure which kit to purchase or need some guidance, don't hesitate to [contact me](#contact-me). I'm happy to help you pick the perfect kit for your Tesla!
 
 ### After Booking an Appointment
 Once you've booked your appointment, I'll contact you directly. This is to confirm that you have the correct kit for your vehicle and to schedule a precise installation time at your preferred location, factoring in my transit time to ensure a smooth and efficient process for both of us.
