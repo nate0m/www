@@ -54,7 +54,7 @@ You can expect to pay for the installation service after the work is complete. I
 ## Contact Me
 If you have any questions about which automatic frunk kit is right for your Tesla, or curious about the installation process? Don't hesitate to reach out! I am ready to provide you with the answers you need.
 
-Phone: ‪(949) 407-9539‬
+Phone (call or text): ‪(949) 407-9539‬
 
 Email: nathanmilton82@gmail.com
 
