@@ -4,10 +4,17 @@
     <title>Nathan Milton</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Nathan Milton</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 12:16:36 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 19:10:20 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tesla Auto Frunk</title>
+      <link>http://localhost:1313/tesla-auto-frunk/</link>
+      <pubDate>Tue, 10 Jun 2025 19:10:20 -0700</pubDate>
+      <guid>http://localhost:1313/tesla-auto-frunk/</guid>
+      <description>Telsa Automatic Frunk </description>
+    </item>
     <item>
       <title>Posting</title>
       <link>http://localhost:1313/post/2025/06/04/posting/</link>
