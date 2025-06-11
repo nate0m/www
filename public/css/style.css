@@ -14,7 +14,7 @@ body {
   padding: 0.2em;
   line-height: 1.5em;
   color: #01172F;
-  background-color: f1f7ed;
+  background-color: #f1f7ed;
   # background-image: url('/img/stars.png');
   background-size: cover;
   background-position: center;
@@ -22,7 +22,7 @@ body {
   font-size: 1em;
 }
 a {
-  color: #01172F;
+  color: #EB5160;
 }
 a:hover {
   background-color: rgba(145, 199, 177, 0.5);
