@@ -6,63 +6,70 @@
     <description>Recent content in Posts on Nathan Milton</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 12:16:36 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 15:43:33 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIY Soldering Fan</title>
+      <link>http://localhost:1313/post/2025/06/17/diy-soldering-fan/</link>
+      <pubDate>Tue, 17 Jun 2025 15:43:33 -0700</pubDate>
+      <guid>http://localhost:1313/post/2025/06/17/diy-soldering-fan/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/post/soldering-fan/thumb.png&#34; alt=&#34;final-ish product&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tldr:&lt;/strong&gt; build a small usb-c power fan to exhaust soldering fumes. Finished Model. &lt;a href=&#34;https://www.printables.com/@nathanmilton_2933646/collections/2435517&#34;&gt;Inspiration&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Parts List:&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.aliexpress.us/item/3256806846203226.html?spm=a2g0o.order_list.order_list_main.22.1ecd1802KBbPxW&amp;amp;gatewayAdapt=glo2usa&#34;&gt;PWM Controller&lt;/a&gt; (PWM Motor Speed Controller Automatic DC Motor Regulator Control Module Low Voltage DC 1.8V to 15V 2A)&lt;br&gt;&#xA;&lt;a href=&#34;https://www.aliexpress.us/item/3256804660406598.html?spm=a2g0o.order_list.order_list_main.37.1ecd1802KBbPxW&amp;amp;gatewayAdapt=glo2usa&#34;&gt;Usb-c Charger 3s&lt;/a&gt; (Type-C USB 2S/3S BMS 15W 8.4V 12.6V 1.5A Lithium Battery Charging Boost Module With Balanced Support Fast Charge With Indicator)&lt;br&gt;&#xA;&lt;a href=&#34;https://a.co/d/hsGfntL&#34;&gt;Noctua 120mm 3000rpm Fan&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://a.co/d/an24vOl&#34;&gt;Filter&lt;/a&gt; (Solder Extractor Filter Activated Carbon Replacement)&lt;br&gt;&#xA;&lt;a href=&#34;https://a.co/d/hfyrOgr&#34;&gt;Threaded Insert&lt;/a&gt; (M3 x 4 x 5mm)&lt;br&gt;&#xA;&lt;a href=&#34;https://a.co/d/g7HItRM&#34;&gt;Threaded Insert&lt;/a&gt; (1/4-20&amp;quot; x 6 x 8mm)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Posting</title>
       <link>http://localhost:1313/post/2025/06/04/posting/</link>
       <pubDate>Wed, 04 Jun 2025 12:16:36 -0700</pubDate>
       <guid>http://localhost:1313/post/2025/06/04/posting/</guid>
-      <description>Git pull from the root of the www repo.&#xA;Run hugo new content content/post/my-post.md from the root directory of the hugo repo.&#xA;Copy words as markdown from google doc into markdown doc.&#xA;Make a new folder called the name of the post in /static/img/post and place all images there including the thumbnail.&#xA;Add all image references to the markdown document. The thumbnail is simply an image reference at the top of the page.</description>
+      <description>&lt;p&gt;Git pull from the root of the www repo.&lt;/p&gt;&#xA;&lt;p&gt;Run &lt;code&gt;hugo new content content/post/my-post.md&lt;/code&gt; from the root directory of the hugo repo.&lt;/p&gt;&#xA;&lt;p&gt;Copy words as markdown from google doc into markdown doc.&lt;/p&gt;&#xA;&lt;p&gt;Make a new folder called the name of the post in &lt;code&gt;/static/img/post&lt;/code&gt; and place all images there including the thumbnail.&lt;/p&gt;&#xA;&lt;p&gt;Add all image references to the markdown document. The thumbnail is simply an image reference at the top of the page.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JBD Bms</title>
       <link>http://localhost:1313/post/2025/06/04/jbd-bms/</link>
       <pubDate>Wed, 04 Jun 2025 11:42:13 -0700</pubDate>
       <guid>http://localhost:1313/post/2025/06/04/jbd-bms/</guid>
-      <description>There are a few sections which are unfinished. In the future I might fill them in or if you know the correct description for what is left out then submit a pull request on github.&#xA;Brief Introduction JBD bms’s are popular inexpensive battery management systems that are sold on jiabaida’s website directly but are more commonly purchased on aliexpress. This is my first experience with a JBD bms and this is also my first fully custom battery build.</description>
+      <description>&lt;p&gt;There are a few sections which are unfinished. In the future I might fill them in or if you know the correct description for what is left out then submit a pull request on &lt;a href=&#34;https://github.com/nate0m/www/blob/main/content/post/JBD-bms.md&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;brief-introduction&#34;&gt;Brief Introduction&lt;/h2&gt;&#xA;&lt;p&gt;JBD bms’s are popular inexpensive battery management systems that are sold on &lt;a href=&#34;https://jiabaida-bms.com/&#34;&gt;jiabaida’s website directly&lt;/a&gt; but are more commonly purchased on aliexpress. This is my first experience with a JBD bms and this is also my first fully custom battery build. I found that due to language barriers the JBD app which is used to set the parameters for your battery is slightly unintuitive and confusing. That is why this document exists.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Telsa Automatic Frunk Install</title>
       <link>http://localhost:1313/post/2025/05/24/telsa-automatic-frunk-install/</link>
       <pubDate>Sat, 24 May 2025 18:14:37 -0700</pubDate>
       <guid>http://localhost:1313/post/2025/05/24/telsa-automatic-frunk-install/</guid>
-      <description>Premise My uncle asked me to install this tesla auto frunk kit on his model Y. The instructions and videos online do an ok job (I followed this video) with helping you along the installation process but are not as concise as I would like. Here I will cover my own installation experience with images and advice to help you have a smooth installation also for my own future reference if I decide to install another one of these kits.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/post/auto-frunk/thumb.png&#34; alt=&#34;tesla&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;premise&#34;&gt;Premise&lt;/h2&gt;&#xA;&lt;p&gt;My uncle asked me to install &lt;a href=&#34;https://www.tvibex.com/products/auto-power-frunk-for-tesla-model-3-y-highland-3&#34;&gt;this tesla auto frunk kit on his model Y&lt;/a&gt;. The instructions and videos online do an ok job  (&lt;a href=&#34;https://www.youtube.com/watch?v=DxZ7OL1akJQ&#34;&gt;I followed this video&lt;/a&gt;) with helping you along the installation process but are not as concise as I would like. Here I will cover my own installation experience with images and advice to help you have a smooth installation also for my own future reference if I decide to install another one of these kits.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aliexpress Cell Tester</title>
       <link>http://localhost:1313/post/2025/05/22/aliexpress-cell-tester/</link>
       <pubDate>Thu, 22 May 2025 16:13:28 -0700</pubDate>
       <guid>http://localhost:1313/post/2025/05/22/aliexpress-cell-tester/</guid>
-      <description>The Need for a Cell Tester Recently I started harvesting cells from discarded ebike batteries. Naturally this meant that I needed a way to test the health of these cells. When you test the health of a cell there are a few things that you need to check that being the capacity, maximum voltage, and internal resistance. Most important being the capacity as this is the amount of charge the cell can hold and directly relates to the amount of energy the cell can hold.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/post/aliexpress-cell-tester/2.png&#34; alt=&#34;aliexpress page&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-need-for-a-cell-tester&#34;&gt;The Need for a Cell Tester&lt;/h3&gt;&#xA;&lt;p&gt;Recently I started harvesting cells from discarded ebike batteries. Naturally this meant that I needed a way to test the health of these cells. When you test the health of a cell there are a few things that you need to check that being the capacity, maximum voltage, and internal resistance. Most important being the capacity as this is the amount of charge the cell can hold and directly relates to the amount of energy the cell can hold.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cheaper Than an Ipad</title>
       <link>http://localhost:1313/post/2024/04/04/cheaper-than-an-ipad/</link>
       <pubDate>Thu, 04 Apr 2024 15:20:08 -0700</pubDate>
       <guid>http://localhost:1313/post/2024/04/04/cheaper-than-an-ipad/</guid>
-      <description>I&amp;rsquo;m a college student and last semester did not go very well. I was taking a lot of classes where I had to take physical notes and keep track of a lot of different handouts. Basically I had a bunch of paper that I needed to keep organized. So I went to target bought a binder and some separators for it and started to organize. This worked for a little bit but eventually the paper won the war of attrition.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/post/cheaper-than-an-ipad-thumb.jpg&#34; alt=&#34;thumb&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a college student and last semester did not go very well. I was taking a lot of classes where I had to take physical notes and keep track of a lot of different handouts. Basically I had a bunch of paper that I needed to keep organized. So I went to target bought a binder and some separators for it and started to organize. This worked for a little bit but eventually the paper won the war of attrition.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rethinking Smartphone Ui</title>
       <link>http://localhost:1313/post/2024/02/03/rethinking-smartphone-ui/</link>
       <pubDate>Sat, 03 Feb 2024 20:59:19 -0800</pubDate>
       <guid>http://localhost:1313/post/2024/02/03/rethinking-smartphone-ui/</guid>
-      <description>Recently I&amp;rsquo;ve been feeling that the way that I was using my android smart phone is very cluttered compared to how I use my laptop and desktop linux systems. While I was browsing Fdroid I found a possible solution to my problem in a minimalist launcher.&#xA;Current day android running on my pixel 6 is fine but I wanted something more utilitarian. I find that the multitude of apps within folders and widgets scattered across my home screen is not something that I find pleasant to interface with.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/post/rethinking-smartphone-ui/thumb.png&#34; alt=&#34;thumb&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Recently I&amp;rsquo;ve been feeling that the way that I was using my android smart phone is very cluttered compared to how I use my laptop and desktop linux systems. While I was browsing Fdroid I found a possible solution to my problem in a minimalist launcher.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/post/rethinking-smartphone-ui/android-ui.png&#34; alt=&#34;android&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Current day android running on my pixel 6 is fine but I wanted something more utilitarian. I find that the multitude of apps within folders and widgets scattered across my home screen is not something that I find pleasant to interface with.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jungian Analysis of The New Great Depression by The Moth &amp; The Flame</title>
       <link>http://localhost:1313/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</link>
       <pubDate>Sun, 28 Jan 2024 20:01:50 -0800</pubDate>
       <guid>http://localhost:1313/post/2024/01/28/jungian-analysis-of-the-new-great-depression-by-the-moth-the-flame/</guid>
-      <description>The New Great Depression is a great tune by band The Moth &amp;amp; The Flame with a fantastic music video that sparked my interest. Please watch the video and come back if you&amp;rsquo;re interested in my analysis.&#xA;Over the past year I have been reading a lot of Carl Jung. I started with Man and His Symbols then moved onto his Red Book. Both were enlightening though I could use another read of both for comprehension and understanding especially The Red Book.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/post/great-depression-thumb.jpg&#34; alt=&#34;thumb&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/kQC0Q1b-h7U?si=4rxhucXYn4Fknh9o&#34; target=&#34;_blank&#34;&gt;The New Great Depression&lt;/a&gt; is a great tune by band The Moth &amp;amp; The Flame with a fantastic music video that sparked my interest. Please watch the video and come back if you&amp;rsquo;re interested in my analysis.&lt;/p&gt;&#xA;&lt;p&gt;Over the past year I have been reading a lot of Carl Jung. I started with Man and His Symbols then moved onto his Red Book. Both were enlightening though I could use another read of both for comprehension and understanding especially The Red Book. After learning about the symbolic means of communication that the unconscious uses I have been using it to interpret media. Nowadays the media that people are interested in is like the myths that people were enthralled by in ancient times. By analyzing the symbols and associations of the media that people latch onto we can reach a greater understanding of their collective psyche.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
       <link>http://localhost:1313/post/2024/01/20/first-post/</link>
       <pubDate>Sat, 20 Jan 2024 21:20:23 -0800</pubDate>
       <guid>http://localhost:1313/post/2024/01/20/first-post/</guid>
-      <description>hello world</description>
+      <description>&lt;p&gt;hello world&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
