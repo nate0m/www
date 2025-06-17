@@ -31,7 +31,7 @@ The first prototype was not that difficult to design in principle but the thing 
 
 ![first prototype](/img/post/soldering-fan/3.png)
 
-The pictures of the finished product you see here are a different model from the one that I have posted on printables. This one is a friction fit for the fan while the one printables will accommodate most any 120mm fan but will most likely require fan screws to prevent the fan from rattling around in the case. Also the usb-c port is fixed on the finished model vs the jank job I did with a soldering iron on this one. I’ve also added a place for a ¼ threaded insert on the side of the case, so you can put the fan on tripods and the likes. It can also accommodate a filter behind the fan. I hot glued all of the components into the case to prevent them from moving.
+The pictures of the finished product you see here are a different model from the one that I have posted on printables. This one is a friction fit for the fan while the one printables will accommodate most any 120mm fan but will most likely require fan screws to prevent the fan from rattling around in the case. Also the usb-c port is fixed on the finished model vs the jank job I did with a soldering iron on this one. I’ve also added a place for a ¼-20" threaded insert on the side of the case, so you can put the fan on tripods and the likes. It can also accommodate a filter behind the fan. I hot glued all of the components into the case to prevent them from moving.
 
 
 ![final-ish assembly](/img/post/soldering-fan/4.png)
