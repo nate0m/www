@@ -3,18 +3,11 @@ title = 'DIY Soldering Fan'
 date = 2025-06-17T15:43:33-07:00
 draft = false
 +++
+![solering fan](/img/post/soldering-fan/thumb.png)
 
-![final-ish product](/img/post/soldering-fan/thumb.png)
+<iframe src="https://www.printables.com/embed/1331050" width="640" height="190" scrolling="no" frameborder="0"></iframe>
 
-**Tldr:** build a small usb-c power fan to exhaust soldering fumes. Finished Model. [Inspiration](https://www.printables.com/@nathanmilton_2933646/collections/2435517).
-
-**Parts List:**  
-[PWM Controller](https://www.aliexpress.us/item/3256806846203226.html?spm=a2g0o.order_list.order_list_main.22.1ecd1802KBbPxW&gatewayAdapt=glo2usa) (PWM Motor Speed Controller Automatic DC Motor Regulator Control Module Low Voltage DC 1.8V to 15V 2A)  
-[Usb-c Charger 3s](https://www.aliexpress.us/item/3256804660406598.html?spm=a2g0o.order_list.order_list_main.37.1ecd1802KBbPxW&gatewayAdapt=glo2usa) (Type-C USB 2S/3S BMS 15W 8.4V 12.6V 1.5A Lithium Battery Charging Boost Module With Balanced Support Fast Charge With Indicator)  
-[Noctua 120mm 3000rpm Fan](https://a.co/d/hsGfntL)  
-[Filter](https://a.co/d/an24vOl) (Solder Extractor Filter Activated Carbon Replacement)  
-[Threaded Insert](https://a.co/d/hfyrOgr) (M3 x 4 x 5mm)  
-[Threaded Insert](https://a.co/d/g7HItRM) (1/4-20" x 6 x 8mm)
+**Tldr:** build a small usb-c power fan to exhaust soldering fumes.. [See finished model on Printables](https://www.printables.com/model/1331050-simple-soldering-fan-120mm-usb-c-powered) for parts list and brief assembly instructions as well as my print settings. [Inspiration](https://www.printables.com/@nathanmilton_2933646/collections/2435517)
 
 I needed a small battery powered fan for when I am soldering. I was inspired by a couple of different designs on Printables. 
 
@@ -37,4 +30,7 @@ The pictures of the finished product you see here are a different model from the
 ![final-ish assembly](/img/post/soldering-fan/4.png)
 
 Anyway this build was really fun to do and use a lot of different skills: soldering, modeling, and assembly. Thanks to all the designs on Printables that inspired me. Here is the [collection of models](https://www.printables.com/@nathanmilton_2933646/collections/2435517) that inspired me. 
+
+Edit 6/20/25
+I ended up doing a lot of extra prototyping to make something that I was comfortable uploading to Printables. The main issue I had to fix was with the usb-c power supply that I was using was unreliable and would just randomly cut out so I switched to this one (set to 12V) (that parts list has been updated with this one as well) and haven’t had any problems. A couple of small things that took a lot of adjustment to get right was the usb-c port and the hole for the notch of the pwm dial. I would think that I was done only to try a different usb-c cord and realize I needed to make the hole bigger. Like I mentioned earlier I added a hole on the side for a ¼-20” threaded insert and made the fan compartment larger to accommodate most any 120mm fan or a Noctua 120mm with the rubber still on the corners as well as holes for fan screws on the front. With all these changes I am ready to upload this model to printables and hope to see someone make it!
 
