@@ -27,7 +27,7 @@
       <link>http://localhost:1313/post/2025/06/04/posting/</link>
       <pubDate>Wed, 04 Jun 2025 12:16:36 -0700</pubDate>
       <guid>http://localhost:1313/post/2025/06/04/posting/</guid>
-      <description>&lt;p&gt;Git pull from the root of the www repo.&lt;/p&gt;&#xA;&lt;p&gt;Run &lt;code&gt;hugo new content content/post/my-post.md&lt;/code&gt; from the root directory of the hugo repo.&lt;/p&gt;&#xA;&lt;p&gt;Copy words as markdown from google doc into markdown doc.&lt;/p&gt;&#xA;&lt;p&gt;Make a new folder called the name of the post in &lt;code&gt;/static/img/post&lt;/code&gt; and place all images there including the thumbnail.&lt;/p&gt;&#xA;&lt;p&gt;Add all image references to the markdown document. The thumbnail is simply an image reference at the top of the page.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Git pull from the root of the &lt;a href=&#34;https://github.com/nate0m/www&#34;&gt;www repo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Run &lt;code&gt;hugo new content content/post/my-post.md&lt;/code&gt; from the root directory of the hugo repo.&lt;/p&gt;&#xA;&lt;p&gt;Copy words as markdown from google doc into markdown doc.&lt;/p&gt;&#xA;&lt;p&gt;Make a new folder called the name of the post in &lt;code&gt;/static/img/post&lt;/code&gt; and place all images there including the thumbnail.&lt;/p&gt;&#xA;&lt;p&gt;Add all image references to the markdown document. The thumbnail is simply an image reference at the top of the page.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JBD Bms</title>
@@ -90,7 +90,7 @@
       <link>http://localhost:1313/music-notes/abbey-road/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music-notes/abbey-road/</guid>
-      <description>&lt;p&gt;This is where my thoughts on Abby Road will live.&lt;/p&gt;</description>
+      <description>&lt;p&gt;When I was little the dsi came out and I asked for one for my birthday. This was after the 2008 financial crisis and my parents were going through a hard time and would soon get divorced. But they still went to the Game Stop and got me a pre owned dsi, a black one. I was so happy when I got it I didn’t even really care that much that the left bumper didn’t always work. The dsi was a special device at the time it had a lot of cool features that weren&amp;rsquo;t really gaming related, it could connect to the internet and you could use the camera to take pictures and it had a music player with little games built into it. It was a magical device to me. It also had a full sized sd card slot and by a stroke of pure luck the person that had had the dsi before me had not wiped the sd card, leaving a bunch of Beatles songs on it, and a handful of them were from Abbey Road. That was my first exposure to this album and that mean that this is technically the first album that I owned and for some reason I feel really lucky that whoever traded in that dsi left all those Beatles songs on it because if they didn’t then I wouldn’t have these memories of long car rides listening to Yellow Submarine or Octopus’ Garden, and maybe my outlook on life would be completely different. So I just want to say out into the void thank you to whoever put those songs onto that sd card and thank you for not wiping it before trading it in.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>

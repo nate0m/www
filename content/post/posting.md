@@ -4,7 +4,7 @@ date = 2025-06-04T12:16:36-07:00
 draft = false
 +++
 
-Git pull from the root of the www repo.
+Git pull from the root of the [www repo](https://github.com/nate0m/www).
 
 Run `hugo new content content/post/my-post.md` from the root directory of the hugo repo. 
 

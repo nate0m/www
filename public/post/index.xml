@@ -20,7 +20,7 @@
       <link>http://localhost:1313/post/2025/06/04/posting/</link>
       <pubDate>Wed, 04 Jun 2025 12:16:36 -0700</pubDate>
       <guid>http://localhost:1313/post/2025/06/04/posting/</guid>
-      <description>&lt;p&gt;Git pull from the root of the www repo.&lt;/p&gt;&#xA;&lt;p&gt;Run &lt;code&gt;hugo new content content/post/my-post.md&lt;/code&gt; from the root directory of the hugo repo.&lt;/p&gt;&#xA;&lt;p&gt;Copy words as markdown from google doc into markdown doc.&lt;/p&gt;&#xA;&lt;p&gt;Make a new folder called the name of the post in &lt;code&gt;/static/img/post&lt;/code&gt; and place all images there including the thumbnail.&lt;/p&gt;&#xA;&lt;p&gt;Add all image references to the markdown document. The thumbnail is simply an image reference at the top of the page.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Git pull from the root of the &lt;a href=&#34;https://github.com/nate0m/www&#34;&gt;www repo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Run &lt;code&gt;hugo new content content/post/my-post.md&lt;/code&gt; from the root directory of the hugo repo.&lt;/p&gt;&#xA;&lt;p&gt;Copy words as markdown from google doc into markdown doc.&lt;/p&gt;&#xA;&lt;p&gt;Make a new folder called the name of the post in &lt;code&gt;/static/img/post&lt;/code&gt; and place all images there including the thumbnail.&lt;/p&gt;&#xA;&lt;p&gt;Add all image references to the markdown document. The thumbnail is simply an image reference at the top of the page.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JBD Bms</title>
