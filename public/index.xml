@@ -212,6 +212,13 @@
       <description>&lt;p&gt;This is where my thoughts on Moenie and Kitchi will live.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>music gallery</title>
+      <link>http://localhost:1313/music-gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/music-gallery/</guid>
+      <description>&lt;p&gt;I think over time I will do a write up on each one of these albums on why I like it and this will be the directory for all those write ups.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>NehruvianDOOM</title>
       <link>http://localhost:1313/music-notes/nehruviandoom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -258,7 +265,7 @@
       <link>http://localhost:1313/music-notes/second-dinner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music-notes/second-dinner/</guid>
-      <description>&lt;p&gt;So fun dude.&lt;/p&gt;</description>
+      <description>&lt;p&gt;So fun dude.&lt;/p&gt;&#xA;&lt;p&gt;Its.&lt;/p&gt;&#xA;&lt;p&gt;Not.&lt;/p&gt;&#xA;&lt;p&gt;That.&lt;/p&gt;&#xA;&lt;p&gt;Deep.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Section 80</title>
