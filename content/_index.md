@@ -6,7 +6,6 @@ draft = false
 
 # Welcome to natesmind.space
 
-A reflection of my mind. A place for thoughts to be expressed and reflected on. This is my mindspace. A true mindscape. It is just beginning at the moment but in due time it will be fully fledged.
 
 ## What can you find here?  
 

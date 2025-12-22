@@ -2,6 +2,12 @@
 title: "music gallery"
 layout: "music"
 albums:
+  - image: "/img/album-covers/second-dinner.png"
+    alt: "second dinner"
+    text: "[second-dinner]"
+    link: "../music-notes/second-dinner"
+    weight: 26
+
   - image: "/img/album-covers/faces.jpg"
     alt: "mac miller faces"
     text: "[faces]"

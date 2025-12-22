@@ -8,4 +8,4 @@ genre: "Hip-Hop"
 link: "https://www.youtube.com/watch?v=dCAClyY6vlQ"
 ---
 
-This is my thoughts on Mac Millers Faces mixtap originally released on May 11th of 2014 and recently re-released in 20**.
+The closest you can get to an acid trip with a Hip-Hop album.

@@ -111,14 +111,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;whomai&#34;&gt;whomai&lt;/h2&gt;&#xA;&lt;p&gt;My name is Nathan but my friends call me Nate. I&amp;rsquo;m a 21 year old college student. I&amp;rsquo;m studing computer engineering and I work at an electric bike company. In my free time I enjoy doing little software projects or working in my workshop. I have a very large amount of interests which makes it difficult to focus on one thing. I&amp;rsquo;m always bouncing from one project to another.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bsky.app/profile/two-1st-names.bsky.social&#34;&gt;bluesky&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/nate0m&#34;&gt;github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.printables.com/@nathanmilton_2933646&#34;&gt;printables&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;iframe src=&#34;https://john.citrons.xyz/embed?ref=natesmind.space&#34; style=&#34;margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>American Football</title>
       <link>http://localhost:1313/music-notes/american-football/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music-notes/american-football/</guid>
-      <description></description>
+      <description>&lt;p&gt;The worlds and my first introduction to Midwest-Emo. The understatedness of this album really sinks under my skin and puts my mind at ease. I love the opening track &lt;code&gt;Never Meant&lt;/code&gt;, &lt;code&gt;Honestly&lt;/code&gt; for it&amp;rsquo;s honest proprial of teenage emotions, and &lt;code&gt;I&#39;ll See You Then We&#39;re Both Not So Emotional&lt;/code&gt; for it&amp;rsquo;s closing line. They defined a genre then dropped off the face of the earth.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amerikkkan Korruption</title>
@@ -160,14 +160,14 @@
       <link>http://localhost:1313/music-notes/faces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music-notes/faces/</guid>
-      <description>&lt;p&gt;This is my thoughts on Mac Millers Faces mixtap originally released on May 11th of 2014 and recently re-released in 20**.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The closest you can get to an acid trip with a Hip-Hop album.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freestyle Friday</title>
       <link>http://localhost:1313/music-notes/freestyle-friday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music-notes/freestyle-friday/</guid>
-      <description></description>
+      <description>&lt;p&gt;Edubble was my introduction to Hip-Hop. I&amp;rsquo;m nostalgic for his off-the-cuff middle school ramblings and sampling from rock bands and singer song writers. No one has really done sampling like Edubble did it since.&lt;/p&gt;</description>
     </item>
     <item>
       <title>gallery</title>
@@ -212,13 +212,6 @@
       <description>&lt;p&gt;This is where my thoughts on Moenie and Kitchi will live.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>music gallery</title>
-      <link>http://localhost:1313/music-gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/music-gallery/</guid>
-      <description>&lt;p&gt;I think over time I will do a write up on each one of these albums on why I like it and this will be the directory for all those write ups.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>NehruvianDOOM</title>
       <link>http://localhost:1313/music-notes/nehruviandoom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -259,6 +252,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music-notes/rks/</guid>
       <description>&lt;p&gt;This is where my thoughts on RKS will live.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Dinner</title>
+      <link>http://localhost:1313/music-notes/second-dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/music-notes/second-dinner/</guid>
+      <description>&lt;p&gt;So fun dude.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Section 80</title>
