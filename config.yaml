@@ -1,6 +1,6 @@
-baseurl: "https://nathanmilton.com"
+baseurl: "https://twofirstnames.xyz"
 languageCode: "en-us"
-title: "Nathan Milton"
+title: "Two First Names"
 theme: "hugo-theme"
 googleAnalytics: ""
 disqusShortname: ""
@@ -30,7 +30,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; nate for now"
+  footer: "&copy; Two First Names"
 
 markup:
   highlight:
